@@ -1,7 +1,7 @@
 # Site settings
 title: New World
 SEOTitle: Gavin's Blog | Welcome
-header-img: img/post-bg-desk.jpg
+header-img: img/My-favourite-picture-3.jpg
 email: zhangqiyouxiang2019@outlook.com
 description: "Every failure is leading towards success. I want to do into the computers' world, so I try my best to work hard. I believe I can！I believe you can!"
 keyword: "Gavin, My Blog, 张奇的博客, New World, Data Struct, C/Cpp, iOS, Apple, iPhone" #关键词
@@ -12,7 +12,7 @@ github_repo: "https://github.com/xaiosi/xaiosi.github.io.git" # you code reposit
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "New World is belong to everyone!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/58328985.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
